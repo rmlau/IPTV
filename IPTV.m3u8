@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:-1 ,NBA_I
+https://hls.phlw.net/live/887790268/playlist.m3u8?k=80427b6a7a7bd08196b9a6affdbdd224&t=1700978769
+#EXTINF:-1 ,NBA_II
+https://pull-gaia-bac.soucan.so/live/dps-58552857-saturn-wsu/playlist.m3u8?wsSecret=c63ec0bc6c787bcb63c7e0587b277710&wsABSTime=656275a4
+#EXTINF:-1 ,咪咕III
+https://pull-gaia-bac.soucan.so/live/dps-58552857-saturn-wsu/playlist.m3u8?wsSecret=c63ec0bc6c787bcb63c7e0587b277710&wsABSTime=656275a4
+#EXTINF:-1 ,纬来体育
+https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 ,咪咕V
+http://111.40.196.27:443/0000000000001000/3000000001000005969/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000005969
+#EXTINF:-1 ,凤凰中文  
+##########http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1 ,凤凰资讯 
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-202b7a2e-92ad-420e-bc9e-401937c12c7b.m3u8?by=yeslivetv_com
+http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 ,凤凰香港
+http://113.117.74.20:8081/hls/38/index.m3u8
+#EXTINF:-1 ,五星体育
+http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 ,BesTV天翼
+http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 ,4K电影 2
+http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 ,4K测试
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
+#EXTINF:-1 ,苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 ,苏州8K
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+#EXTINF:-1 ,国家地理 
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 ,广东体育 
+http://112.89.121.23:80/PLTV/88888973/224/3221225750/10000100000000060000000000334588_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7840,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowknjg8NSqNVsWY2LwTOy6B9:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,CCTV1 
+http://112.89.121.23:80/PLTV/88888973/224/3221225768/10000100000000060000000000337107_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7818,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlhOLuRCiHgtW469LYGcBty:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,CCTV2 
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 ,CCTV3 
+http://113.207.84.199/session/eca5e2b4-3ef7-11ee-90e0-5254003e6f6f$h1.0$tv.live.cbnbn.cn/673dxt/__cl/cg:live/__c/cctv3HD/__op/default/__f/1/v6M/index.m3u8
+#EXTINF:-1 ,CCTV4k
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 ,CCTV4
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+#EXTINF:-1 ,CCTV5 
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 ,CCTV5 I
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+#EXTINF:-1 ,CCTV5 资源2
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+#EXTINF:-1 ,CCTV5+ 
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+##########http://112.89.121.23:80/PLTV/88888973/224/3221225705/10000100000000060000000000334542_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7819,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCown2FDVNG+ZNzdxPe0phXLWm:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,CCTV6 
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
+#EXTINF:-1 ,CCTV7 
+http://112.89.121.23:80/PLTV/88888973/224/3221225749/10000100000000060000000000334584_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7810,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowljL/8+efgIoZxjCG31rI2E:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,CCTV9 
+http://112.89.121.23:80/PLTV/88888973/224/3221225747/10000100000000060000000000334581_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7810,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkpTXVpkkAilPfDJaVJmwBK:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,CCTV10 
+http://112.89.121.23:80/PLTV/88888973/224/3221225745/10000100000000060000000000334569_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7809,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownO6/jvFpALITOLK1MIALYD:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,CCTV12 
+http://112.89.121.23:80/PLTV/88888973/224/3221225742/10000100000000060000000000334548_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7809,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownxWkAW6Edi7D6VntGIcvvN:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,CCTV13 
+http://39.134.65.177/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 ,CCTV14 
+http://112.89.121.23:80/PLTV/88888973/224/3221225740/10000100000000060000000000334546_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7810,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlLW+9H8/Cw+LdiLmahQz2w:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,CCTV16 奥林匹克
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 ,CCTV8K
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1 ,峨眉电影 
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdygqH265_4000.m3u8
+#EXTINF:-1 ,湖南卫视 
+http://112.89.121.21:80/PLTV/88888973/224/3221225716/10000100000000060000000000334645_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7859,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmYFxT4GHZGgEnkV4czc5R/:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,欢笑剧场 
+http://112.17.40.218:80/PLTV/88888888/224/3221230739/1.m3u8
+#EXTINF:-1 ,浙江卫视 
+http://112.89.121.21:80/PLTV/88888973/224/3221225713/10000100000000060000000000334649_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7858,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkN8TjPTKRAZyLEJcForH/D:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,江苏卫视 
+http://112.89.121.21:80/PLTV/88888973/224/3221225710/10000100000000060000000000334652_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7859,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownJ6J/Ye1LAzaoieL+BqFym:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,北京卫视 
+http://112.89.121.23:80/PLTV/88888973/224/3221225706/10000100000000060000000000334665_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7956,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownNYKZoZO6v4p4y2xIBed7k:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,深圳卫视 
+http://112.89.121.23:80/PLTV/88888973/224/3221225708/10000100000000060000000000334657_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7856,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmQnlYPqLd2pxEJA0K89iEq:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,黑龙江卫视 
+http://120.87.4.12:80/PLTV/88888973/224/3221225711/10000100000000060000000000334653_0.smil/01.m3u8?fmt=ts2hls,143,01.m3u8,0,7860,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlqBAsoSRjwG879CgX7v/rR:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,湖北卫视 
+http://120.87.4.13:80/PLTV/88888973/224/3221225714/10000100000000060000000000334648_0.smil/01.m3u8?fmt=ts2hls,203,01.m3u8,0,7858,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownQ8cES+qO55D6NUJeL49Rp:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,天津卫视 
+http://120.87.4.17:80/PLTV/88888973/224/3221225715/10000100000000060000000000334647_0.smil/01.m3u8?fmt=ts2hls,163,01.m3u8,0,7955,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkLCM2it2Mbqn+DrKmH1SHV:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,山东卫视 
+http://120.87.4.13:80/PLTV/88888973/224/3221225758/10000100000000060000000000334623_0.smil/01.m3u8?fmt=ts2hls,203,01.m3u8,0,7858,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowms+7aPWUSgz4oe8YSjyjPq:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,东方卫视 
+http://112.89.121.23:80/PLTV/88888973/224/3221225707/10000100000000060000000000334659_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7956,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmhHVtq6Cb/lStC/0k4vNUC:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,北京纪实 
+http://120.87.4.14:80/PLTV/88888973/224/3221225754/10000100000000060000000000334607_0.smil/01.m3u8?fmt=ts2hls,203,01.m3u8,0,7321,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCown/ZvwYwYAZvmg1xf4jsv9Q:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,辽宁卫视 
+http://120.87.4.12:80/PLTV/88888973/224/3221225709/10000100000000060000000000334654_0.smil/01.m3u8?fmt=ts2hls,143,01.m3u8,0,7860,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownUAHDYxIUL0K7wNTp7ksvC:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,重庆卫视 
+http://120.87.4.13:80/PLTV/88888973/224/3221225757/10000100000000060000000000334621_0.smil/01.m3u8?fmt=ts2hls,203,01.m3u8,0,7321,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownWJmTr8Hxw+jFs8YcvvBxF:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,安徽卫视 
+http://112.89.121.23:80/PLTV/88888973/224/3221225759/10000100000000060000000000335582_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7821,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownaXORvs82loJOdygBQl/hA:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,贵州卫视 
+http://112.89.121.24:80/PLTV/88888973/224/3221226123/10000100000000060000000001056887_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7326,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkE9A5t4CbN8uOO8/isha8Z:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,CCTV老故事 
+http://120.87.4.11:80/PLTV/88888973/224/3221226159/10000100000000060000000001091893_0.smil/01.m3u8?fmt=ts2hls,143,01.m3u8,0,2441,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCown9Xi5nSatK6uBs195xyh0L:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,广东卫视
+http://112.89.121.21:80/PLTV/88888973/224/3221225766/10000100000000060000000000337111_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2420,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowniek5vI5PoY2MhAg+QWDrm:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,南方卫视
+http://112.89.121.21:80/PLTV/88888973/224/3221225724/10000100000000060000000000334167_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2441,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkQyJ1/QCjaDX1hkMu/sXTY:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,岭南戏曲
+http://120.87.4.14:80/PLTV/88888973/224/3221225731/10000100000000060000000000334250_0.smil/01.m3u8?fmt=ts2hls,203,01.m3u8,0,2513,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowk7pQkcL8eatZpNyp3bcAj3:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,IPTV少儿动画 
+http://120.87.4.12:80/PLTV/88888973/224/3221226113/10000100000000060000000000916600_0.smil/01.m3u8?fmt=ts2hls,143,01.m3u8,0,2441,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowniKYV4m+aqYR+rvUDL1o08:20181110091937,END&GuardEncType=2
+#EXTINF:-1 ,咪咕2
+ttp://zteres.sn.chinamobile.com:6060/000000001000/3000000001000010129/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕1
+https://hls.phlw.net/live/887788911/playlist.m3u8?k=f279977f2844dc8ef1c05510af3db76b&t=1700969875
+#EXTINF:-1 ,咪咕3
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕4
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕5
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000007218/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕6
+copy to clip
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕7
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕8
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000004193/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕9
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011522/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕10
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011520/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕11
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000031669/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕12
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000010948/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕13
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000028638/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕14
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000031494/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕15
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005837/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕16
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011518/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕17
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011519/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕18
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕19
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011524/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕20
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011525/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕足球
+http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1562554036_-2064141468/ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8?icpid=3&RTS=1674385972&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+#EXTINF:-1 ,咪咕体育-4K
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕体育-3K
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕音乐
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
+#EXTINF:-1 ,CNN
+http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 ,FoxSorts
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 ,SkySorts
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ss.premier.league.ze.m3u8
+#EXTINF:-1 ,SkySorts_Football
+https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
+#EXTINF:-1 ,Unknown
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.football.it.m3u8
