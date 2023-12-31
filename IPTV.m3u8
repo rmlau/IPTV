@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 ,NBA_I
-http://pull.haoago.com/live/dps-58614510-saturn-ali.m3u8?auth_key=1704002460-0-0-7bb12ba821eeef791d40e6e342fb4475
+https://hls.phlw.net/live/895336426/playlist.m3u8?k=2374893616b38d9454376cad24354823&t=1704078647
 #EXTINF:-1 ,NBA_II
-https://play1nm.hnyongshun.cn/live/hd-zh-318q6nt6kk6jmo9.m3u8
+http://lvbaiducdncnc.inter.iqiyi.com/tslive/l1/c61_ssports_20231231_tfndtnxu_720p_chst1_t4/krM2NGlFKmMe4aMxpEpH59vF23mvdW2f6ICOqeNtVUt7kj_8pcaC-OAx39ZGlKMvRBBBlvg8Qbw-2IrRHlvo3WpaZu7SVI0Pk2gyX16YNippDsy6p8OqHKXAWrBU0h8iGJ8lSLp9C9tERupsy-00mAesBDid-ja_2uSjfb9jL5fz2I3QxbpcwCFxZiQGjtkrnY_LF9WCtVXNq9JSl1GYSAg1XfWaut_cGsE5isg8Fj-SxIkeEnBgK20ouC2o-Qw1SHAyfEgDpoX7vRTGHpRpOIkcAkp5-NtvuYaynVJ4oiE/1320f5a5e1e87e4c3071a453973e2fe7a/c61_ssports_20231231_tfndtnxu_720p_chst1_t4.m3u8?key=0dc15c9b0e50c6401ab29d4153fe6bde0&dis_t=1704033446&qdpv=3&pv=0.1&autoplay=ture
 #EXTINF:-1 ,咪咕III
-https://pull.haoago.com/live/dps-58614510-hydra-ali.m3u8?auth_key=1704002460-0-0-868b3dac6d9d8a05bee69d422e134d74
+https://pull.haoago.com/live/dps-58613166-hydra-ali.m3u8?auth_key=1704047460-0-0-3f5e6462c0a4a1a35abc93dc5d0f693b
 #EXTINF:-1 ,纬来体育
-https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+https://pull.haoago.com/live/dps-58613166-merak-ali.m3u8?auth_key=1704047460-0-0-41f449839cd216c856fac108af834b63
 #EXTINF:-1 ,咪咕V
 https://pull.haoago.com/live/dps-58614510-merak-ali.m3u8?auth_key=1704002460-0-0-4137daa87d6221ebfa3329f355b3b935
 #EXTINF:-1 ,凤凰中文  
