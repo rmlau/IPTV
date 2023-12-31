@@ -99,62 +99,13 @@ http://112.89.121.21:80/PLTV/88888973/224/3221225724/100001000000000600000000003
 http://120.87.4.14:80/PLTV/88888973/224/3221225731/10000100000000060000000000334250_0.smil/01.m3u8?fmt=ts2hls,203,01.m3u8,0,2513,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowk7pQkcL8eatZpNyp3bcAj3:20181110091937,END&GuardEncType=2
 #EXTINF:-1 ,IPTV少儿动画 
 http://120.87.4.12:80/PLTV/88888973/224/3221226113/10000100000000060000000000916600_0.smil/01.m3u8?fmt=ts2hls,143,01.m3u8,0,2441,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowniKYV4m+aqYR+rvUDL1o08:20181110091937,END&GuardEncType=2
-#EXTINF:-1 ,咪咕2
-ttp://zteres.sn.chinamobile.com:6060/000000001000/3000000001000010129/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
 #EXTINF:-1 ,咪咕1
-https://hls.phlw.net/live/887788911/playlist.m3u8?k=f279977f2844dc8ef1c05510af3db76b&t=1700969875
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 ,咪咕2
+http://39.134.67.108/PLTV/88888888/224/3221225897/index.m3u8
 #EXTINF:-1 ,咪咕3
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
 #EXTINF:-1 ,咪咕4
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
 #EXTINF:-1 ,咪咕5
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000007218/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕6
-copy to clip
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕7
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕8
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000004193/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕9
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011522/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕10
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011520/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕11
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000031669/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕12
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000010948/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕13
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000028638/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕14
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000031494/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕15
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005837/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕16
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011518/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕17
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011519/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕18
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕19
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011524/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕20
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000020000011525/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕足球
-http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1562554036_-2064141468/ott.mobaibox.com/PLTV/3/224/3221228231/index.m3u8?icpid=3&RTS=1674385972&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-#EXTINF:-1 ,咪咕体育-4K
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕体育-3K
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕音乐
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
-#EXTINF:-1 ,CNN
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 ,FoxSorts
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 ,SkySorts
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ss.premier.league.ze.m3u8
-#EXTINF:-1 ,SkySorts_Football
-https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
-#EXTINF:-1 ,Unknown
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.sport.football.it.m3u8
