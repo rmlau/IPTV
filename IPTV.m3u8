@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,NBA_I
-https://hls.phlw.net/live/887790268/playlist.m3u8?k=80427b6a7a7bd08196b9a6affdbdd224&t=1700978769
+http://pull.haoago.com/live/dps-58614510-saturn-ali.m3u8?auth_key=1704002460-0-0-7bb12ba821eeef791d40e6e342fb4475
 #EXTINF:-1 ,NBA_II
 https://pull-gaia-bac.soucan.so/live/dps-58552857-saturn-wsu/playlist.m3u8?wsSecret=c63ec0bc6c787bcb63c7e0587b277710&wsABSTime=656275a4
 #EXTINF:-1 ,咪咕III
