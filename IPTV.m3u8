@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 ,NBA_I
-http://pull.haoago.com/live/dps-58642505-hydra-ali.m3u8?auth_key=1706938260-0-0-33ed6e8c0ae4e4402ba2f658453f0168
+http://lvbaiducdncnc.inter.iqiyi.com/tslive/l1/c64_ssports_20240204_mvq03ux5_720p_chst2_t4/puau7dYmFXuK7paCOP_KEUNawsK7sQRylyUOAQ6s7RHhibNoUnuo8jovVl3HHOIYor42MRiUPyayrUlN76AeZyfzg9_yzc6LDowGUklWC0qnvSvYZLBQWsg3Nl_och2KvxxY9cmfq60Ne_eYmC0vPbY0DCl-8q3_AfBhdTPggc1CN0tXjeUbS7kACBMmaFFJIMhnkHh3EebhtwY761QpISFcJ705p_NVKfhlXtxD8pGErMRAOtf2TrEpwstC3d2WgExV8xob4GFZMmJlmbKq1g/19ae795331a3c04f071df7c2b2284ac76/c64_ssports_20240204_mvq03ux5_720p_chst2_t4.m3u8?key=0e7f9e1a023af0d67913ba335da2fec4b&dis_t=1707057721&qdpv=3&pv=0.1&qp_index=360000&autoplay=ture
 #EXTINF:-1 ,NBA_II
-https://node1.olelive.com:6443/sport/a2160c0f3bd3c1871a48a65af0ec30fc/hls.m3u8?token=bcad3e7463d65c521b6f8fc3a230332c
+https://hls.phlw.net/live/899254763/playlist.m3u8?k=a092bf180619faff2fd2a110a24c721e&t=1707102922
 #EXTINF:-1 ,咪咕III
-https://ani.zq4669.com:31106/live/hls?id=4ca970bd.m3u8
+http://livetx-rtmp.dongqiudi.com/live/sd-1-3936523.m3u8?txSecret=491ecd1bc99a77a730677ede7f1bad31&txTime=1707057662
 #EXTINF:-1 ,纬来体育
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 ,咪咕V
