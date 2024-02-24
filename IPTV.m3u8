@@ -1,3 +1,12 @@
+#EXTM3U 体育直播-腾讯NBA
+https://hls.phlw.net/live/56377185/playlist.m3u8?k=2b59c3216fc2d088178e11655ca3a18a&t=1708750830
+#EXTM3U 体育直播-腾讯NBA备份
+http://pull.haoago.com/live/dps-58665686-hydra-ali.m3u8?auth_key=1708759860-0-0-af49f5f470e4265a361a36c97889aac0
+#EXTM3U 体育直播-咪咕NBA
+http://pull.haoago.com/live/dps-58665686-merak-ali.m3u8?auth_key=1708759860-0-0-c5f6cc36c6c3ae8ceb1c016a57c09eef
+#EXTM3U 体育直播-咪咕英超1
+#EXTM3U 体育直播-咪咕英超2
+#EXTM3U 体育直播-纬来体育
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
