@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF: 腾讯NBA-1
-https://sport.sportlive.vip/sport/201_2500231_549771.m3u8?auth_key=1709515150-0-0-2e1b0d2e0055864a155108356ed1f090
+http://aliyuncoccdncnc-hn.inter.iqiyi.com/tslive/l1/c66_ssports_20240310_3ea1nh5k_720p_chst2_t4/YndRqw6KK_xbWIJ7y9I4L1MeZ0Mnx2Rd7_vXGlOdB07pyAzbjXaW4MOmij0EFlaBwkbu6zxi-r_mo1w01GO53wI2fKV8wwfQ8TnMO0sHuu4xd00bvSr3tAUvJAm30HMj4cssX7ZCM8eBd3cjEGGj8Tl3aKMcd_gZ3aNzLQRepGpXYtOlGH9T8mE0wox6kjqavP87cPUkosY5HK5TeJJPSdkgh7vQ_qHOdLfRewVnp5n5SYi5vBedRzh0R1GkAjRiLDPyL3JyWOQ8U5mzg39r9w/11044c37dbab5d7efcc0acb0f29496b41/c66_ssports_20240310_3ea1nh5k_720p_chst2_t4.m3u8?key=0e7f9e1a023af0d677ebcc143e3a91849&dis_t=1710006053&random=1&qdpv=3&pv=0.1&qp_index=360000&autoplay=ture
 #EXTINF: 腾讯NBA-2
-https://hls.phlw.net/live/902770642/playlist.m3u8?k=5552e8fb64720f3411a640dc5d187242&t=1710050502
+https://hls.phlw.net/live/902770642/playlist.m3u8?k=c8724e088227230170e9475d48ee908d&t=1710051303
 #EXTINF: 咪咕体育-1
-https://hls.phlw.net/live/902770642/playlist.m3u8?k=585606c020d300bea1085b11b5d1f679&t=1710050409
+http://livetx-rtmp.dongqiudi.com/live/sd-1-3936467.m3u8?txSecret=ac4e268d5e041846a0272da0c07f976c&txTime=1710006097
 #EXTINF: 咪咕足球-1
 https://ani.zq4669.com:31106/live/hls?id=357b2b2f.m3u8
 #EXTINF: 咪咕足球-2
