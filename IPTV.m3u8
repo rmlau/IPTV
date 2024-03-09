@@ -4,13 +4,13 @@ https://sport.sportlive.vip/sport/201_2500231_549771.m3u8?auth_key=1709515150-0-
 #EXTINF: 腾讯NBA-2
 https://play.aomeila.cn/live/hd-zh-1l4rjztjeegxm7v.m3u8
 #EXTINF: 咪咕体育-1
-http://182.40.121.208/play1nm.hnyongshun.cn/live/hd-en-1l4rjztjeegxm7v.m3u8?_session_id=3494389697.n.cn-eqaun9.etd7_15305&cascade=true&cluster=fc.cn-twiswx&domain=play.aomeila.cn&fp_dispatch_strategy=---&fp_pod_uid=fdaa9a17-57b2-4b2f-93a0-96a9853db84c&fp_region=&launch_ip=10.144.77.200&node_id=fc.cn-twiswx&notUserSink=true&pod_name=pod.cn-twiswx.x1ii.nss&pro_type=http&remote_type=external&switch302=false&vhost=aomeila.cn&TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=111.225.147.66&dispatch_from=OC_MGR42.81.4.165&utime=1709430673315
+https://hls.phlw.net/live/902770642/playlist.m3u8?k=585606c020d300bea1085b11b5d1f679&t=1710050409
 #EXTINF: 咪咕足球-1
 https://ani.zq4669.com:31106/live/hls?id=357b2b2f.m3u8
 #EXTINF: 咪咕足球-2
-https://hls.phlw.net/live/901176942/playlist.m3u8?k=b4011f5211477a394fba92b8b045e6f5&t=1708849853
+https://pull.tangyuan1688.com/live/hd-zh-2y8m4zhwo9gwql0.m3u8
 #EXTINF: 英超-其他
-http://aliyuncoccdncnc-hn.inter.iqiyi.com/tslive/l1/c63_ssports_20240225_v2iw55qo_720p_chst2_t4/evPwmhk_WcCaXxCy6XKwaOJXesX4TJ3cMJgU5OcTB90YngKdfpZHMdx4SWta16iZgjVlloFqjmaekI43KkkrrHjb7A-7nKDix_o5_EEUMuI6YJ51wkk20r7eE0qoXAEgHT7KiDj2PqKRpUFZ7F8uCcGyfr1TPn2uBEp9iZiC-XWsRrcvRu6CL_hSyIroYzsIiz5ZYOjLYB8E2GkNTzTjG75MJqn0kA_P_DYytFDfO-GenLjKXLGiDHybVHMxNBNGWkWBOb4KEai1gxu10s7wVA/1b257dd9a5e6852256840cc55f392eb45/c63_ssports_20240225_v2iw55qo_720p_chst2_t4.m3u8?key=0e7f9e1a023af0d67ea67156bd5f8d60e&dis_t=1708804500&random=1&qdpv=3&pv=0.1&qp_index=360000&autoplay=ture
+https://ynzbpull2.nbxhth.cn/live/85939351581328503500.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
