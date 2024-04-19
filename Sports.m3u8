@@ -8,14 +8,14 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/cctv5+.png" group-title="•央视「IPV6」",CCTV5+「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF: NBA-腾讯
-https://hls.phlw.net/live/56377471/playlist.m3u8?k=51d5cc0d104e590ac8632325c1070783&t=1712364476
+http://livetx-rtmp.dongqiudi.com/live/sd-2-3784108.m3u8?txSecret=20e867fddeb4640d75c93938a27dcbe3&txTime=1713530169
 #EXTINF: NBA-咪咕
-https://hls.phlw.net/live/56377471/playlist.m3u8?k=3abe5771909c231a84a8f365725922d9&t=1712364185
+https://ani.zq4669.com:31106/live/hls?id=51c8ca30.m3u8
 #EXTINF: NBA-其他
-http://pull.tangyuan1688.com/live/hd-zh-y39mp4t096l2moj.m3u8
+https://ani.zq4669.com:31106/live/hls?id=3a4e85fc.m3u8
 #EXTINF: 英超-咪咕
-https://hls.lviwxoer3.com/live/hd-zh-1-4082834.m3u8?txSecret=692f50f310521269f3006a3deaeb3466&txTime=661B86EA
+https://play1nm.hnyongshun.cn/live/ballbar_30650.m3u8
 #EXTINF: 英超-爱奇艺
-https://pull.tangyuan1688.com/live/hd-en-6wXrYLkshA1j1juVvN.m3u8
+https://ani.zq4669.com:31106/live/hls?id=738e327e.m3u8
 #EXTINF: 英超-其他
-https://pull.tangyuan1688.com/live/hd-zh-6wXrYLkshA1j1juVvN.m3u8
+https://ani.zq4669.com:31106/live/hls?id=20714b9d.m3u8
