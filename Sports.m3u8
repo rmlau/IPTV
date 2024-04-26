@@ -8,14 +8,14 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/cctv5+.png" group-title="•央视「IPV6」",CCTV5+「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF: NBA-腾讯
-https://play1nm.hnyongshun.cn/live/ballbar_38570.m3u8
+https://c7e35299902fe9843994b1cbe3dbcfe7.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_27850.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.98&dispatch_from=OC_MGR153.0.194.50&utime=1714171555162
 #EXTINF: NBA-咪咕
-https://kgq-out1-0605.speedzonerc.com/live/sd-2-3784349.m3u8?auth_key=1713632346-0-0-fdc965cdec679e2051cc9426b749a009
+https://820c6f369a5466d1f4bcba2809bcdea5.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_18390.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.98&dispatch_from=OC_MGR153.0.194.50&utime=1714171554704
 #EXTINF: NBA-其他
-https://hls.mszgjy.com/live/62944007/playlist.m3u8?k=2f2af2e7c13c1e59986653b9b9953763&t=1713659211
+https://c7e35299902fe9843994b1cbe3dbcfe7.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_18390.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.98&dispatch_from=OC_MGR211.95.157.92&utime=1714171756767
 #EXTINF: 英超-咪咕
-https://hls.mszgjy.com/live/62944008/playlist.m3u8?k=ff3ea1930dde1912482850e8919078fc&t=1713659266
+https://ani.zq4669.com:31106/live/hls?id=2390214b.m3u8
 #EXTINF: 英超-爱奇艺
-http://play1nm.hnyongshun.cn/live/ballbar_38680.m3u8
+https://play1nm.hnyongshun.cn/live/ballbar_24320.m3u8
 #EXTINF: 英超-其他
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
