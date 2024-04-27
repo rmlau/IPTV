@@ -8,13 +8,13 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/cctv5+.png" group-title="•央视「IPV6」",CCTV5+「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF: NBA-腾讯
-https://c7e35299902fe9843994b1cbe3dbcfe7.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_27850.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.98&dispatch_from=OC_MGR153.0.194.50&utime=1714171555162
+https://play1nm.hnyongshun.cn/live/ballbar_31890.m3u8
 #EXTINF: NBA-咪咕
-https://820c6f369a5466d1f4bcba2809bcdea5.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_18390.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.98&dispatch_from=OC_MGR153.0.194.50&utime=1714171554704
+https://play1nm.hnyongshun.cn/live/ballbar_6790.m3u8
 #EXTINF: NBA-其他
-https://c7e35299902fe9843994b1cbe3dbcfe7.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_18390.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.98&dispatch_from=OC_MGR211.95.157.92&utime=1714171756767
+https://2251fa75b6ca50f971bb359a3ba2804f6a5e5619934fe53f.v.smtcdns.net/txycdn.video.qq.com/1763490502.m3u8?time=1714177242&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=0EA050330A0AE5D381EFCDA628A95C01D92DB37D52AAB38B607392C71A20A55C76D6353425676FE0A0E03B1FD93C7CD40D23739E76612274D6CD3C21D338A19DF5227C31F058FEC5EA63B48E813D2C1E127C6BEDEF14706D4ED2F784BDD8262AECB640CCD7D679A1BD177E5A583CCDD623BA997E1244D788&drmtype=0
 #EXTINF: 英超-咪咕
-https://ani.zq4669.com:31106/live/hls?id=2390214b.m3u8
+https://cc6fb9a15a7e2a7bd31d6586dc1c8f1a.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_6790.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.98&dispatch_from=OC_MGR211.95.157.120&utime=1714177318715
 #EXTINF: 英超-爱奇艺
 https://play1nm.hnyongshun.cn/live/ballbar_24320.m3u8
 #EXTINF: 英超-其他
