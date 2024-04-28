@@ -10,12 +10,18 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF: NBA-腾讯
 https://ac2b19f061e4e7e343d76af8c594126d.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_27590.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.98&dispatch_from=OC_MGR211.95.157.68&utime=1714188853341
 #EXTINF: NBA-咪咕
-https://ac2b19f061e4e7e343d76af8c594126d.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_14440.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.98&dispatch_from=OC_MGR211.95.157.68&utime=1714188830427
+http://lvbaiducdncnc.inter.iqiyi.com/tslive/l1/c63_ssports_20240428_kronuwge_720p_chst1_t4/DHO8Rc4_gS6kMgKEV3kkqtRpzOgkP9kJ6TtE_5mGDjEvSgpAuVefl1ak6vRcay3O-cnCXJiIbUWCH4cIZ_VZMDKZy8ykIzOgCNRSwRtx4bH5CpoM7pPFIaVdGxsAWa_C75uuxW5KSbccZbo_G6vEY3Tj9CenrppWk-Jd36FTCslufv3gIXZtk4MoiQIODpTE3vw_Ie1YNnq5b0VU807Y5__IH8JiawTPegKZEYKr0MCeo96Vm_HKnRz8OSsJyhp1pzDOqIXzdWQG77NdAoTMVPte_DQ2a8tltV6TmZiTuy0/1fef5e12f79e77dc070e59d0a065c3f0e/c63_ssports_20240428_kronuwge_720p_chst1_t4.m3u8?key=0dc15c9b0e50c6401ac46682043e62441&dis_t=1714308795&qdpv=3&pv=0.1&autoplay=ture
 #EXTINF: NBA-其他
-https://hls.mszgjy.com/live/63403713/playlist.m3u8?k=0c078bd9ed80a5dacc498b67c8f2a4a3&t=1714188881
+https://play1nm.hnyongshun.cn/live/ballbar_4880.m3u8
 #EXTINF: 英超-咪咕
-https://cc6fb9a15a7e2a7bd31d6586dc1c8f1a.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_6790.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.98&dispatch_from=OC_MGR211.95.157.120&utime=1714177318715
+https://eeab7ec48306385f37294ea831f55cc7.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_6870.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.98&dispatch_from=OC_MGR211.97.81.222&utime=1714308800748
 #EXTINF: 英超-爱奇艺
-https://play1nm.hnyongshun.cn/live/ballbar_24320.m3u8
-#EXTINF: 英超-其他
-https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+http://lvbaiducdncnc.inter.iqiyi.com/tslive/l1/c63_ssports_20240428_kronuwge_720p_chst1_t4/pfWI8U9Uz6O_A0vr_nNJLYDSB5wJiGvpY_mN1cQsVynAzw-OCIkfnrTwJSp03t_H86JHrKug6bFqC0E1Xaf_3WnoQ7CLSTTcDnv-dnNfEJPEH1bkJ5Ti4eygWp7hgKiqOgyYisNOAZTOaguoESMGHm6N4Yceqvo8hwyUopX337z7jlTKH-0GsVzXfeJjD-hRBCpgMBVRdcES-7WcxQ3IxlTGKK8XZskgH7PUnGnIV_rhLM2_FTcgfkcJHLLWJpVhnZHTgdFwJH98CWuCYZgwOx-WhsYElrov5lnbv-kDyng/19b7b186cbf19a80dd2e68eecb4c95943/c63_ssports_20240428_kronuwge_720p_chst1_t4.m3u8?key=0dc15c9b0e50c6401ae07fb065c5672c6&dis_t=1714308402&qdpv=3&pv=0.1&autoplay=ture
+#EXTINF: 英超-其他-1
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF: 英超-其他-2
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/1.m3u8
+#EXTINF: 英超-其他-3
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF: CCTV-5_央视频
+https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5_1_td.m3u8
