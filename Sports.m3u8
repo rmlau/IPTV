@@ -8,15 +8,15 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/cctv5+.png" group-title="•央视「IPV6」",CCTV5+「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF: NBA-腾讯
-https://ac2b19f061e4e7e343d76af8c594126d.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_27590.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.98&dispatch_from=OC_MGR211.95.157.68&utime=1714188853341
+https://hsycdn.hls.live.video.qq.com/1763630302.m3u8?time=1714614794&cdn=hsycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=7B80764EE150C37273499452E0CF214A7BBA6A7B1EB9F01B71BD9A67284336487A6F5C127C2B5ABFD4D2E6F9132BF4F49F09583ABE16F1D8DEB15890DEB7F60B55F255F549900FDF77BF01A77282C673264110EF70D5D23B439865398511B12929133A0D8315F58F22303B3A0F19367DCEC5F42C65E2E391&drmtype=0
 #EXTINF: NBA-咪咕
-http://lvbaiducdncnc.inter.iqiyi.com/tslive/l1/c63_ssports_20240428_kronuwge_720p_chst1_t4/DHO8Rc4_gS6kMgKEV3kkqtRpzOgkP9kJ6TtE_5mGDjEvSgpAuVefl1ak6vRcay3O-cnCXJiIbUWCH4cIZ_VZMDKZy8ykIzOgCNRSwRtx4bH5CpoM7pPFIaVdGxsAWa_C75uuxW5KSbccZbo_G6vEY3Tj9CenrppWk-Jd36FTCslufv3gIXZtk4MoiQIODpTE3vw_Ie1YNnq5b0VU807Y5__IH8JiawTPegKZEYKr0MCeo96Vm_HKnRz8OSsJyhp1pzDOqIXzdWQG77NdAoTMVPte_DQ2a8tltV6TmZiTuy0/1fef5e12f79e77dc070e59d0a065c3f0e/c63_ssports_20240428_kronuwge_720p_chst1_t4.m3u8?key=0dc15c9b0e50c6401ac46682043e62441&dis_t=1714308795&qdpv=3&pv=0.1&autoplay=ture
+https://play1nm.hnyongshun.cn/live/ballbar_28330.m3u8
 #EXTINF: NBA-其他
-https://play1nm.hnyongshun.cn/live/ballbar_4880.m3u8
+https://play1nm.hnyongshun.cn/live/ballbar_7090.m3u8
 #EXTINF: 英超-咪咕
-http://livetx-rtmp.dongqiudi.com/live/hd-zh-1-3936357.m3u8?txSecret=e2e2547edb4caf53f3a2b12c72c4933d&txTime=1714313959
+https://play1nm.hnyongshun.cn/live/ballbar_6790.m3u8
 #EXTINF: 英超-爱奇艺
-http://gdctyuncdnct.inter.iqiyi.com/tslive/l1/c63_ssports_20240428_kronuwge_720p_chst1_t4/1aNKhfrwN4nB5lNHs6NwkdkArww-cF33QPF_C7ifVaf_lLt3IaEQeqbx20stUkKaqM2ndi1RYaHaP-uoqU80J8KHowjApEC3nWe-Tl7dNe2GRVLy2MyDnEMYu3k27zaqTMx3sxUgaZFaH7c8YlEgWVkwEO3m6NSAHx-psg-ZDl658KvTYhZ0HQtXH5WceYZAnIlXBaAs_zJW6DkmbymfQOOITCE8ldz9mx07FoxWQ0oVgm3tKyXaY8va1Dn_FlsQhpox6s45h2r3cqUeWNnk2Q/1fdd15361b0882c3a3eb68b596e913ebd/c63_ssports_20240428_kronuwge_720p_chst1_t4.m3u8?key=0dc15c9b0e50c6401a016ea1f3bd8a5c2&dis_t=1714313490&qdpv=3&pv=0.1
+https://ani.zq4669.com:31106/live/hls?id=5d546aec.m3u8
 #EXTINF: 英超-其他-1
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 #EXTINF: 英超-其他-2
