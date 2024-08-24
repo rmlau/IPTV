@@ -14,11 +14,11 @@ https://play1nm.hnyongshun.cn/live/ballbar_9830.m3u8
 #EXTINF: NBA-其他
 https://3ee09318da0e151f3bb7d49b59f39328.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_5300.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=163.125.208.139&dispatch_from=OC_MGR153.0.194.51&utime=1716079277438
 #EXTINF: 英超-咪咕
-https://play1nm.hnyongshun.cn/live/ballbar_24320.m3u8
+http://livetx-rtmp.dongqiudi.com/live/hd-zh-1-4139773.m3u8?txSecret=7e4228c58b9d7141a36ed718559441d3&txTime=1724501794
 #EXTINF: 英超-爱奇艺
-https://play1nm.hnyongshun.cn/live/ballbar_32000.m3u8
+http://livetx-rtmp.dongqiudi.com/live/sd-1-4139773.m3u8?txSecret=67749b91cb92b8dfc6dcf68b1559115e&txTime=1724501796
 #EXTINF: 英超-其他-1
-https://ani.zq4669.com:31106/live/hls?id=3cd3478f.m3u8
+https://ac2b19f061e4e7e343d76af8c594126d.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_33400.m3u8?TxLiveCode=tf_stream&TxDispType=1&svr_type=live_oc&tencent_test_client_ip=27.38.208.0&dispatch_from=OC_MGR211.97.81.95&utime=1724501904593
 #EXTINF: 英超-其他-2
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/1.m3u8
 #EXTINF: 英超-其他-3
