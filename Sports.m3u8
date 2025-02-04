@@ -8,7 +8,7 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=f7ecf95305fa1a9396dc4
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/cctv5+.png" group-title="•央视「IPV6」",CCTV5+「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF: NBA-腾讯
-https://0edbed7c24001d8502ae600e30b9bdd9b095c5b4bfac4335.v.smtcdns.net/txycdn.video.qq.com/1765665302.m3u8?time=1729306160&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=8C1FE737BC735EBF75F18FECDAF7DDC5EFB11E1E4235F04A5C86AB52CC2114962B71BB4DE0290BE1E99C10577F4CAA848DA5A4FF500AEA4ED9EE00439BE331D0CBED75D3CD682D69CCE8E2CB004A8DD49ADF1C038306C4B05206FC11D34DE394C133D6DEBAE40C73DB7A814FD746DEEA1FA73419E5582BAF&drmtype=0
+https://v4-23c02b34c3dbe65d9d98d5a86ddb7980.livehwc3.cn/hls.yjjcfw.com/live/10022400708.m3u8?hwTime=67A18B6D&sub_m3u8=true&hwSecret=63ff8cf9359b245714d1c6c7a6386affd43b4a043990478c97cad67664428e91&edge_slice=true&user_session_id=07b364a0ced39299150fc192058172ad
 #EXTINF: NBA-咪咕
 https://v4-23c02b34c3dbe65d9d98d5a86ddb7980.livehwc3.cn/hls.yjjcfw.com/live/938279333.m3u8?hwTime=67131E31&user_session_id=98910ce605b3cb4349d57d2839ba407f&hwSecret=7f1797849640e04346afded5540b890d29c6b79cd0be47a326fe51e3c6fb0e19&sub_m3u8=true&edge_slice=true
 #EXTINF: NBA-其他
